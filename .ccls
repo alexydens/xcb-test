@@ -1,0 +1,8 @@
+-std=c99
+-pedantic
+-Wall
+-Wextra
+-Wno-unused-variable
+-Wno-pragma-pack
+-Wno-variadic-marco
+-I./moorhen/include
